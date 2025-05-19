@@ -1,0 +1,1 @@
+print(model.predict(email_spam_count))
